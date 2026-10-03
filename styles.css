@@ -1,0 +1,66 @@
+.element {
+   box-shadow: 67px 30px 23px 0px rgba(76, 59, 144, 0.75);
+   background-color: rgb(193, 137, 193);
+   width: 200px;
+   height: 200px;
+}
+.element2 {
+    box-shadow: 0px 30px 23px 67px rgba(205, 24, 123, 0.75);
+    background-color:rgb(230, 224, 102);
+    width: 200px;
+    height:200px;
+    margin-top:auto;
+    margin-left: auto;
+}
+.element3 {
+   box-shadow: 40px 50px 5px 0px rgba(13, 110, 222, 0.4);
+   width: 350px;
+   height: 350px;
+   margin-top: auto;
+   background-color: rgb(72, 91, 183);
+}
+
+
+.site-title {
+   text-shadow: 10px 10px 9px rgba(222, 67, 67, 0.5);
+   color:rgb(255, 0, 0)
+} 
+.site-subtitle {
+    text-shadow: 1px 0px 6px rgba(0, 255, 255, 0.5);
+    color:rgb(117, 0, 226)
+}
+.box {
+    display: flex;
+    gap:16px
+}
+
+.block {
+   background: linear-gradient(to right, rgb(255, 163, 97), rgb(226, 226, 146));
+   width:200px;
+   height:200px;
+}
+.block2 {
+   background: linear-gradient(to left, rgb(144, 250, 112), rgb(129, 207, 255));
+   width:200px;
+   height:200px;
+}
+.block3 {
+   background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(0, 0, 0));
+   width:200px;
+   height:200px;
+}
+.block4 {
+   background: linear-gradient(to top, rgb(227, 125, 255), rgb(93, 0, 163));
+   width:200px;
+   height:200px;
+}
+.gradient {
+    background: radial-gradient(circle, rgb(12, 255, 134), rgb(179, 81, 188), rgb(255, 135, 135));
+    width: 200px;
+    height:200px;
+}
+.gradient1 {
+    background: radial-gradient(ellipse, rgb(255, 0, 212), rgb(188, 102, 81), rgb(209, 16, 16));
+    width: 200px;
+    height:200px;
+}
